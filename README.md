@@ -42,7 +42,7 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 ## GitHub stats
 
 <div class="badges-githubstats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazuna262&hide_border=true&background=082421&border=13131300&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="nazuna262's github commit streak" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazuna262&hide_border=true&background=082421&border=13131300&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=20" alt="nazuna262's github commit streak" height="500" />
 </div>
 
 ## Elos
