@@ -50,3 +50,4 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 [![lol](https://img.shields.io/badge/lol-diamante/platina-blue)](https://op.gg/pt/lol/summoners/br/%D0%BE%D0%B4%D0%B8%D0%BD%D0%B4%D0%B2%D0%B0-chtg)
 [![Valorant](https://img.shields.io/badge/valorant-diamante-red)](https://tracker.gg/valorant/profile/riot/%D0%BE%D0%B4%D0%B8%D0%BD%D0%B4%D0%B2%D0%B0%23chtg/overview?platform=pc&playlist=competitive&season=ce2783e8-44fc-dd48-3da3-33b5ba6c4a22)
 [![r6](https://img.shields.io/badge/r6-prata-black)](https://r6.tracker.network/r6siege/profile/ubi/nazunalk/overview)
+[![fortnite](https://img.shields.io/badge/fortnite-champion-orange)](https://fortnitetracker.com/profile/all/dark_lucca1)
