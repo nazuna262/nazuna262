@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&letterSpacing=medium&duration=1000&pause=1000&color=5D31B8D7&background=FFFFFF00&width=500&lines=Lucca%2C+aprendiz+senai">
 
-<p> Meu nome é Lucca, estou cursando tec. em eletrônica com o ensino medio e tec. em desenvolvimento de sistemas no senai</p>
+<p> Meu nome é Lucca, estou cursando tec. em eletrônica com o ensino medio e tec. em desenvolvimento de sistemas no senai, gosto muito de jogos no geral</p>
 
 ## Community Chess Tournament
 
